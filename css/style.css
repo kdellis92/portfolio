@@ -1,0 +1,59 @@
+.panel h3 {
+	font-size: 100px;
+	font-family: Georgia, serif;
+	font-style: italic;
+	color: white;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+font-family: 'Over the Rainbow', cursive;
+}
+
+p {
+font-family: "Helvetica Neue", sans-serif;	
+}
+
+
+.paneltop {
+	background-color: white;
+	padding-top: 20px;
+}
+
+.contain-to-grid {
+  width: 100%;
+  background: 4a3011; }
+  .contain-to-grid .top-bar {
+    margin-bottom: 0; }
+
+.fullscreen {
+	width: 100%;
+}
+
+.tall {
+	width: 50%;
+}
+
+.tall2 {
+	width: 45%;
+}
+
+.imagemargin {
+	margin: 20px 0;
+}
+
+.DeeperSouth {
+	height: 500px;
+}
+
+.panel { background-color: green; }
+
+.button.secondary { color: green; 
+	background-color: aqua;
+
+}
+
+.active img {
+	margin: 0 auto;
+}
+
+.orbit-slide-number { display: none; }
